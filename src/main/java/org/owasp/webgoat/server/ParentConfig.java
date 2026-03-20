@@ -8,3 +8,5 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class ParentConfig {}
+
+//password=password123
